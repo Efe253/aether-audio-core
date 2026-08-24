@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ubuntu/aurora_audio_engine/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
