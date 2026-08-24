@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/synth_demo.dir/examples/synth_demo.cpp.o -o synth_demo  libaurora_core.a
