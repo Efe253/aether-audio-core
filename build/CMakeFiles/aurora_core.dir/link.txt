@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaurora_core.a CMakeFiles/aurora_core.dir/src/core/engine.cpp.o CMakeFiles/aurora_core.dir/src/dsp/audio_graph.cpp.o CMakeFiles/aurora_core.dir/src/dsp/basic_nodes.cpp.o CMakeFiles/aurora_core.dir/src/hal/null_backend.cpp.o
+/usr/bin/ranlib libaurora_core.a

@@ -1,0 +1,8 @@
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/aurora_core.dir
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/synth_demo.dir
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/install.dir
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/install/local.dir
+/home/ubuntu/aurora_audio_engine/build/CMakeFiles/install/strip.dir
